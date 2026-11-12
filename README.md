@@ -2,6 +2,8 @@
 
 **Build better habits. Keep them to yourself.**
 
+**[Open Habit Vault →](https://manishsubba30.github.io/habit-vault/)**
+
 Habit Vault is a free, private habit tracker that runs entirely in your browser. Everything you enter is encrypted on your device with a passcode only you know. There's no account, no server and no ads.
 
 ## What it does
